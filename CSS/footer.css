@@ -3,9 +3,16 @@
     width: 80%;
     height: 8rem;
 }
-/* =========Responsividade 400px==================== */
-@media (max-width: 400px){
+/* =========Responsividade 450px==================== */
+@media (max-width: 450px){
     .footer{
         width: 100%;
     }
+}
+/* ==========Responsive 1024px====================== */
+@media (max-width: 1024px) {
+    .footer{
+        width: 100%;
+    }
+    
 }
