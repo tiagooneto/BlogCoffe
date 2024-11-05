@@ -3,3 +3,9 @@
     width: 80%;
     height: 8rem;
 }
+/* =========Responsividade 400px==================== */
+@media (max-width: 400px){
+    .footer{
+        width: 100%;
+    }
+}

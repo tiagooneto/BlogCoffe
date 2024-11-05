@@ -27,3 +27,18 @@ main{
     font-size: 1.6rem;
     padding: 1.5rem;
 }
+
+/* =========Responsividade 400px==================== */
+@media (max-width: 400px){
+    main{
+        width: 100%;
+    }
+    .conteudo{
+        margin: 2rem 3rem;
+    }
+    .conteudo img{
+        width: 90%;
+        height: 50%;
+    }
+
+}
